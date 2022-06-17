@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-commerce-App-UI-Compose</string>
+    <string name="women">Women</string>
+    <string name="hand_bag">Hand bag</string>
+    <string name="jewellery">Jewellery</string>
+    <string name="footwear">Footwear</string>
+    <string name="dresses">Dresses</string>
+    <string name="price">Price</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="buy_now">Buy Now</string>
+</resources>
